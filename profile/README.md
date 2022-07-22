@@ -5,7 +5,7 @@
         alt="Logo" width=70>
     <h3 align="center">
         <a href="https://tail.wtf/">Tail.WTF</a>&nbsp;&nbsp;
-        <img src="https://img.shields.io/github/stars/tail-wtf/rules?style=social" alt="stars">
+        <a href="https://github.com/Tail-WTF/Rules"><img src="https://img.shields.io/github/stars/tail-wtf/rules?style=social" alt="stars"></a>
     </h3>
     <p align="center">
         Chops Trackers From Shared Link.
